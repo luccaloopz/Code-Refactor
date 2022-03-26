@@ -1,21 +1,23 @@
 # Code-Refactor
 
-### Description 
-    The purpose of this homework was to refactor the already existing code to ensure that it meets a certain set of acceptance criteria. Remember, refactoring does not mean changing the code itself, but simply making improvements to the code so that you may meet these acceptance criteria.
+### Description
+
+The purpose of this homework was to refactor the already existing code to ensure that it meets a certain set of acceptance criteria. Remember, refactoring does not mean changing the code itself, but simply making improvements to the code so that you may meet these acceptance criteria.
 
 ### Acceptance Criteria
-    See below:
 
-    ![screenshot](./assets/images/acceptance-criteria.png "Acceptance Criteria")
-
+See below:
+![screenshot](./assets/images/acceptance-criteria.png "Acceptance Criteria")
 
 ### Languages Used
-    The programming languages used in this homework were html and css. 
+
+The programming languages used in this homework were html and css. 
 
 ### Important Code Snippets
-    This block of code I thought important to mention because it gave me a better understanding of how to create hyperlinks on a webpage by using the <a> anchor tag with an href attribute:
 
-    ```html
+This block of code I thought important to mention because it gave me a better understanding of how to create hyperlinks on a webpage by using the <a> anchor tag with an href attribute:
+
+```html
     <ul>
         <li>
             <a href="#search-engine-optimization">Search Engine Optimization</a>
@@ -27,11 +29,11 @@
             <a href="#social-media-marketing">Social Media Marketing</a>
         </li>
     </ul>
-    ```
-    
-    This element I thought important to mention as well because it helped me further grasp the concept of semantic html elements. By adding in an <aside> element, the code is better organized to mimick how the webpage is intended to look instead of using a simple <div> element. See below:
+``` 
 
-    ```html
+This element I thought important to mention as well because it helped me further grasp the concept of semantic html elements. By adding in an aside element, the code is better organized to mimick how the webpage is intended to look instead of using a simple div element. See below:
+
+```html
     <aside class="benefits">
         <div class="benefit-lead">
             <h3>Lead Generation</h3>
@@ -55,9 +57,10 @@
             </p>
         </div>
     </aside>
-    ```
+```
 
 ### A quick list of my improvements to the code (in no particular order):
+
 - added id tag to line 31
 - added alt tag to line 32
 - added alt tags to the other two images (line 39 and 46)
