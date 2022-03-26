@@ -6,7 +6,7 @@
 ### Acceptance Criteria
     See below:
 
-    ![alt text](./assets/images/Acceptance%20Criteria.png "Acceptance Criteria")
+    ![screenshot](./assets/images/acceptance-criteria.png "Acceptance Criteria")
 
 
 ### Languages Used
