@@ -1,20 +1,20 @@
 # Code-Refactor
 
-### **Description**
+## **Description**
 
 The purpose of this homework was to refactor the already existing code to ensure that it meets a certain set of acceptance criteria. Remember, refactoring does not mean changing the code itself, but simply making improvements to the code so that you may meet these acceptance criteria.
 
-### **Acceptance Criteria**
+## **Acceptance Criteria**
 
 See below:
 
 ![screenshot](./assets/images/acceptance-criteria.png "Acceptance Criteria")
 
-### **Languages Used**
+## **Languages Used**
 
 The programming languages used in this homework were html and css. 
 
-### **Important Code Snippets**
+## **Important Code Snippets**
 
 This block of code I thought important to mention because it gave me a better understanding of how to create hyperlinks on a webpage by using the `a` anchor tag with an href attribute:
 
@@ -60,7 +60,7 @@ This element I thought important to mention as well because it helped me further
     </aside>
 ```
 
-### A quick list of my improvements to the code (in no particular order):
+## A quick list of my improvements to the code (in no particular order):
 
 - added id tag to line 31
 - added alt tag to line 32
