@@ -5,13 +5,16 @@
 
 ### Acceptance Criteria
     See below:
-    ![alt text](Acceptance Criteria.png "Acceptance Criteria")
+
+    ![alt text](./assets/images/Acceptance%20Criteria.png "Acceptance Criteria")
+
 
 ### Languages Used
     The programming languages used in this homework were html and css. 
 
 ### Important Code Snippets
     This block of code I thought important to mention because it gave me a better understanding of how to create hyperlinks on a webpage by using the <a> anchor tag with an href attribute:
+
     ```html
     <ul>
         <li>
@@ -27,6 +30,7 @@
     ```
     
     This element I thought important to mention as well because it helped me further grasp the concept of semantic html elements. By adding in an <aside> element, the code is better organized to mimick how the webpage is intended to look instead of using a simple <div> element. See below:
+
     ```html
     <aside class="benefits">
         <div class="benefit-lead">
@@ -52,6 +56,7 @@
         </div>
     </aside>
     ```
+
 ### A quick list of my improvements to the code (in no particular order):
 - added id tag to line 31
 - added alt tag to line 32
